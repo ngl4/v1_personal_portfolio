@@ -1,0 +1,101 @@
+
+    
+    #home-page {
+        background: url("../images/background-1.jpg");
+        height: 55em;
+
+    }
+
+    #myPhoto {
+
+        background: url("../images/myPhoto.jpg");
+        height: 15em;
+        background-position-x: 0em;
+        background-size: 100%;
+        /* opacity: 0.9; */
+        background-repeat: no-repeat;
+        background-color: gray;
+
+    }
+
+    #introduction {
+
+        height: 200%;
+        background-color: lightsteelblue;
+        padding-bottom: 10%;
+
+
+    }
+
+    #experience {
+
+        height: 100%;
+        background-color: lightgray;
+        padding-bottom: 5%;
+
+    }
+
+    #skills {
+
+        height: 100%;
+        background-color: lightblue;
+        padding-bottom: 10%;
+
+    }
+
+
+    #portfolios {
+
+        height: 100%;
+        background-color: lightslategrey;
+        padding-bottom: 10%;
+
+    }
+
+
+    #hobbies {
+
+        height: 100%;
+        background-color: lightgrey;
+        padding-bottom: 10%;
+
+    }
+
+
+    #contact {
+
+        height: 100%;
+        background: url("../images/background-1.jpg")  no-repeat 20% 50%;
+        background-position-y: 60em;
+        background-position-x: 100em;
+        padding-bottom: 10%;
+        opacity: 0.7;
+
+
+    }
+
+    #home-page-text {
+        font-family: 'Salsa', cursive;
+        font-size: 200%;
+    }
+
+    .title {
+        font-family: 'Salsa', cursive;
+        font-size: 200%;
+    }
+
+    .uk-slideshow-items {
+        min-height: 330px !important;
+        min-width: 330px !important;
+        max-height: 400px !important;
+        max-width: 550px !important;
+    }
+
+    .uk-slideshow {
+
+        min-height: 330px !important;
+        min-width: 330px !important;
+        max-height: 400px !important;
+        max-width: 550px !important;
+
+    }
